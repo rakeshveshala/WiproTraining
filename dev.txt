@@ -1,0 +1,6 @@
+what are opps principles?
+--> there are 4 principles of oops
+1.inheritance
+2.encapsulation
+3.polymorphism
+4.abstraction
